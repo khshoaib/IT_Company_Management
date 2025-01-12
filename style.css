@@ -270,6 +270,7 @@ nav.solutek_menu span {
 
 .mobile-menu.mean-container {
   overflow: hidden;
+  background-size: cover;
 }
 
 .header-btn {

@@ -1,1 +1,6 @@
-https://github.com/khshoaib/IT_Company_Management/blob/main/img/1.png
+![image alt](https://github.com/khshoaib/IT_Company_Management/blob/main/img/1.png)
+![image alt](https://github.com/khshoaib/IT_Company_Management/blob/main/img/2.png)
+![image alt](https://github.com/khshoaib/IT_Company_Management/blob/main/img/3.png)
+![image alt](https://github.com/khshoaib/IT_Company_Management/blob/main/img/4.png)
+![image alt](https://github.com/khshoaib/IT_Company_Management/blob/main/img/5.png)
+![image alt](https://github.com/khshoaib/IT_Company_Management/blob/main/img/6.png)
